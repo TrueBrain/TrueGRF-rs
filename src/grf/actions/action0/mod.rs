@@ -2,6 +2,7 @@ mod cargo;
 mod global_settings;
 mod industry;
 mod industry_tile;
+mod station;
 
 pub use cargo::Cargo;
 pub use global_settings::GlobalSetting;
